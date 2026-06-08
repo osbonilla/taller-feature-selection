@@ -8,7 +8,7 @@
 
 ## Maestría en Ciencia de Datos
 
---
+---
 
 #### **Integrantes**
 - Oldrin Santiago Bonilla Cáceres
